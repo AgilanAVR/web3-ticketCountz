@@ -111,6 +111,7 @@ nav {
   width: 175px;
   height: 50px;
   margin: 0 75px 0 auto;
+  overflow-x: hidden;
 
   background: rgba(255, 255, 255, 0.2);
   color: var(--clr-white);
@@ -322,6 +323,7 @@ header {
 
 .card__button--out {
   background-color: #BA1840;
+  margin-top: 35px;
 }
 
 .card hr {
@@ -494,11 +496,12 @@ header {
   }
 
   .nav__brand {
-    padding: 30px 50px;
+    padding: 30px 30px;
   }
 
   .nav__connect {
     margin: 0 50px 0 auto;
+    font-size: 13px;
   }
 }
 

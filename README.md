@@ -1,4 +1,4 @@
-# Tokenmaster
+# TicketCountz
 
 ## Technology Stack & Tools
 
